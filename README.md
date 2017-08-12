@@ -1,2 +1,3 @@
 # hello-world
-Just anoother repository
+Just another repository.
+My name is Daniel.
